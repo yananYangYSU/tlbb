@@ -10,4 +10,4 @@
 + 3.运行游戏
   - 在windows电脑上进入单机版文件夹，双击运行游戏.cmd 进入单机版游戏
    
- 
+ 文件下载地址：http://pan.baidu.com/s/1c76od4 密码：jbkr
